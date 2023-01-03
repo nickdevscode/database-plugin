@@ -1,2 +1,2 @@
-# DBPlugin
-DBPlugin
+# datebase plugin
+database plugin
